@@ -1,7 +1,7 @@
 # To run this project:
 
 ## Install dependencies
-```bash npm install```
+Run ```npm install``` in the terminal
 
 ## Create a .env file with the appropriate values for CLIENT_ID, CLIENT_SECRET, REDIRECT_URI, AND REFRESH_TOKEN 
 
@@ -10,4 +10,4 @@
 - REFRESH_TOKEN can be obtained via inputting the CLIENT_ID and CLIENT_SECRET into https://developers.google.com/oauthplayground
 
 ## Run the project
-```bash node index.js```
+Run ```node index.js``` in the terminal
